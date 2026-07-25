@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyVFECoreMedievalOverhaul_HiddenDesignators</defName>
+		<hiddenDesignators>
+			<li>Bed_Simple</li>
+			<li>VFE_Bed_SimpleDouble</li>
+		</hiddenDesignators>
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>
