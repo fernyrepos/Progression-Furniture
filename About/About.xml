@@ -7,6 +7,13 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<description>Integrates decoration mods into Vanilla progression.</description>
+	<modDependencies>
+		<li>
+			<packageId>ferny.betterarchitect</packageId>
+			<displayName>Better Architect Menu</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3563882422</steamWorkshopUrl>
+		</li>
+	</modDependencies>
 	<loadAfter>
 		<li>DSP.HalituisAmaricanous</li>
 		<li>Animal.BedsNew</li>
