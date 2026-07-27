@@ -18,7 +18,10 @@
     <li IfModActive="nightmare.museums">1.6/Mods and Shit/Museums</li>
     <li IfModActive="kongkim.panelsframes">1.6/Mods and Shit/Panels and Frames</li>
     <li IfModActive="Animal.BedsNew">1.6/Mods and Shit/More Animal Beds</li>
-    <li IfModActive="dankpyon.medieval.overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="DankPyon.Medieval.Overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActiveAll="DankPyon.Medieval.Overhaul,VanillaExpanded.VFEArt">1.6/Mods and Shit/Medieval Overhaul + VFE Art</li>
+    <li IfModActive="Misstall.Furniture">1.6/Mods and Shit/Misstall Furniture</li>
+    <li IfModActive="mingtuwuxiang.SpaceBaseDecorative">1.6/Mods and Shit/MUS SpaceBase</li>
     <li IfModActive="rebuild.cotr.doorsandcorners">1.6/Mods and Shit/Rebuild DAC</li>
     <li IfModActive="ReGrowth.BOTR.Core">1.6/Mods and Shit/Regrowth Core</li>
     <li IfModActive="lmgginspace.repairbed">1.6/Mods and Shit/Repair Bed</li>
@@ -29,17 +32,18 @@
     <li IfModActive="scurvyez.stevesdoors">1.6/Mods and Shit/Steve's Doors</li>
     <li IfModActive="Scurvyez.StevesWalls">1.6/Mods and Shit/Steve's Walls</li>
     <li IfModActive="VanillaExpanded.VFECore">1.6/Mods and Shit/VE Furniture</li>
-    <li IfModActiveAll="VanillaExpanded.VFECore,dankpyon.medieval.overhaul">1.6/Mods and Shit/VE Furniture + Medieval Overhaul</li>
+    <li IfModActiveAll="VanillaExpanded.VFECore,DankPyon.Medieval.Overhaul">1.6/Mods and Shit/VE Furniture + Medieval Overhaul</li>
     <li IfModActive="farxmai2.vanillafurnitureexpandedpack">1.6/Mods and Shit/VE Furniture Additional Pack</li>
-    <li IfModActive="vanillaexpanded.vgeneticse">1.6/Mods and Shit/VE Genetics</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">1.6/Mods and Shit/VE Genetics</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VFEArt">1.6/Mods and Shit/VE Genetics + VFE Art</li>
     <li IfModActive="vanillaexpanded.vfearchitect">1.6/Mods and Shit/VFE Architect</li>
-    <li IfModActive="vanillaexpanded.vfeart">1.6/Mods and Shit/VFE Art</li>
+    <li IfModActive="VanillaExpanded.VFEArt">1.6/Mods and Shit/VFE Art</li>
     <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">1.6/Mods and Shit/VFE Settlers</li>
     <li IfModActive="VanillaExpanded.VFESpacer">1.6/Mods and Shit/VFE Spacer</li>
     <li IfModActive="cixwow.vfespaceraddon">1.6/Mods and Shit/VFE Spacer Addon</li>
     <li IfModActive="vanillaquestsexpanded.ancients">1.6/Mods and Shit/VQE Ancients</li>
-    <li IfModActiveAll="erin.decorations,vanillaexpanded.vfeart">1.6/Mods and Shit/Erin Decorations + VFE Art</li>
-    <li IfModActiveAll="ponpeco.pfkidsroom,vanillaexpanded.vfeart">1.6/Mods and Shit/Ponpeco Kids Room + VFE Art</li>
+    <li IfModActiveAll="erin.decorations,VanillaExpanded.VFEArt">1.6/Mods and Shit/Erin Decorations + VFE Art</li>
+    <li IfModActiveAll="ponpeco.pfkidsroom,VanillaExpanded.VFEArt">1.6/Mods and Shit/Ponpeco Kids Room + VFE Art</li>
     <li IfModActive="yayoflake.mahjong">1.6/Mods and Shit/Mahjong Table</li>
   </v1.6>
 </loadFolders>

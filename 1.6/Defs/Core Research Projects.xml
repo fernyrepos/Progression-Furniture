@@ -72,7 +72,7 @@
 		</tags>
 	</ResearchProjectDef>
 
-	<ResearchProjectDef>
+<ResearchProjectDef>
 		<defName>Ferny_Tables</defName>
 		<label>Tables</label>
 		<description>Build tables for colonists to gather, eat, and spend time around.</description>

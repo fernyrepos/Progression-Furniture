@@ -318,25 +318,6 @@
 					</value>
 				</nomatch>
 			</li>
-			<li Class="PatchOperationConditional">
-				<xpath>/Defs/ThingDef[@Name="GR_ArtBaseGround"]/researchPrerequisites</xpath>
-				<match Class="PatchOperationReplace">
-					<xpath>/Defs/ThingDef[@Name="GR_ArtBaseGround"]/researchPrerequisites</xpath>
-					<value>
-						<researchPrerequisites>
-							<li>VFE_Res_Rugs</li>
-						</researchPrerequisites>
-					</value>
-				</match>
-				<nomatch Class="PatchOperationAdd">
-					<xpath>/Defs/ThingDef[@Name="GR_ArtBaseGround"]</xpath>
-					<value>
-						<researchPrerequisites>
-							<li>VFE_Res_Rugs</li>
-						</researchPrerequisites>
-					</value>
-				</nomatch>
-			</li>
 		</operations>
 	</Operation>
 </Patch>
