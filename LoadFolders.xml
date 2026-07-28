@@ -1,49 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
 <loadFolders>
-  <v1.6>
-    <li>/</li>
-    <li>1.6</li>
-    <li IfModActive="sarg.alphapropsparks">1.6/Mods and Shit/AP Parks</li>
-    <li IfModActive="Inggo.AdvancedPolyBeds">1.6/Mods and Shit/Advanced Poly Beds</li>
-    <li IfModActive="mlie.amnabisflags">1.6/Mods and Shit/Amnabi's Flags</li>
-    <li IfModActive="xmb.ancienturbanruins.mo">1.6/Mods and Shit/Ancient Urban Ruins</li>
-    <li IfModActive="eeg.architecture">1.6/Mods and Shit/Architecture of the Rim</li>
-    <li IfModActive="zylle.clocks">1.6/Mods and Shit/Clocks</li>
-    <li IfModActive="Van.DACrypts">1.6/Mods and Shit/Dark Ages CAT</li>
-    <li IfModActive="DSP.HalituisAmaricanous">1.6/Mods and Shit/Dune Style</li>
-    <li IfModActive="erin.decorations">1.6/Mods and Shit/Erin Decorations</li>
-    <li IfModActive="pphhyy.GuldenNew">1.6/Mods and Shit/Gulden Biome</li>
-    <li IfModActive="Ludeon.Rimworld.Ideology">1.6/Mods and Shit/Ideology</li>
-    <li IfModActive="icepickgma.invisibledisplaycase">1.6/Mods and Shit/Invisible Display Case</li>
-    <li IfModActive="lm.lustechcamostyles">1.6/Mods and Shit/LusTech Modern Camo Styles</li>
-    <li IfModActive="nightmare.museums">1.6/Mods and Shit/Museums</li>
-    <li IfModActive="kongkim.panelsframes">1.6/Mods and Shit/Panels and Frames</li>
-    <li IfModActive="Animal.BedsNew">1.6/Mods and Shit/More Animal Beds</li>
-    <li IfModActive="DankPyon.Medieval.Overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
-    <li IfModActiveAll="DankPyon.Medieval.Overhaul,VanillaExpanded.VFEArt">1.6/Mods and Shit/Medieval Overhaul + VFE Art</li>
-    <li IfModActive="Misstall.Furniture">1.6/Mods and Shit/Misstall Furniture</li>
-    <li IfModActive="mingtuwuxiang.SpaceBaseDecorative">1.6/Mods and Shit/MUS SpaceBase</li>
-    <li IfModActive="rebuild.cotr.doorsandcorners">1.6/Mods and Shit/Rebuild DAC</li>
-    <li IfModActive="ReGrowth.BOTR.Core">1.6/Mods and Shit/Regrowth Core</li>
-    <li IfModActive="lmgginspace.repairbed">1.6/Mods and Shit/Repair Bed</li>
-    <li IfModActive="rimsenal.Sophian">1.6/Mods and Shit/Rimsenal Sophian</li>
-    <li IfModActive="rimsenal.techist">1.6/Mods and Shit/Rimsenal Techist</li>
-    <li IfModActive="dark.signs">1.6/Mods and Shit/Signs and Comments</li>
-    <li IfModActive="Mumei.Signs">1.6/Mods and Shit/Signs and Comments</li>
-    <li IfModActive="scurvyez.stevesdoors">1.6/Mods and Shit/Steve's Doors</li>
-    <li IfModActive="Scurvyez.StevesWalls">1.6/Mods and Shit/Steve's Walls</li>
-    <li IfModActive="VanillaExpanded.VFECore">1.6/Mods and Shit/VE Furniture</li>
-    <li IfModActiveAll="VanillaExpanded.VFECore,DankPyon.Medieval.Overhaul">1.6/Mods and Shit/VE Furniture + Medieval Overhaul</li>
-    <li IfModActive="farxmai2.vanillafurnitureexpandedpack">1.6/Mods and Shit/VE Furniture Additional Pack</li>
-    <li IfModActive="VanillaExpanded.VGeneticsE">1.6/Mods and Shit/VE Genetics</li>
-    <li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VFEArt">1.6/Mods and Shit/VE Genetics + VFE Art</li>
-    <li IfModActive="vanillaexpanded.vfearchitect">1.6/Mods and Shit/VFE Architect</li>
-    <li IfModActive="VanillaExpanded.VFEArt">1.6/Mods and Shit/VFE Art</li>
-    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">1.6/Mods and Shit/VFE Settlers</li>
-    <li IfModActive="VanillaExpanded.VFESpacer">1.6/Mods and Shit/VFE Spacer</li>
-    <li IfModActive="cixwow.vfespaceraddon">1.6/Mods and Shit/VFE Spacer Addon</li>
-    <li IfModActive="vanillaquestsexpanded.ancients">1.6/Mods and Shit/VQE Ancients</li>
-    <li IfModActiveAll="erin.decorations,VanillaExpanded.VFEArt">1.6/Mods and Shit/Erin Decorations + VFE Art</li>
-    <li IfModActiveAll="ponpeco.pfkidsroom,VanillaExpanded.VFEArt">1.6/Mods and Shit/Ponpeco Kids Room + VFE Art</li>
-    <li IfModActive="yayoflake.mahjong">1.6/Mods and Shit/Mahjong Table</li>
-  </v1.6>
-</loadFolders>
+	<v1.6>
+		<li>/</li>
+		<li>1.6</li>
+		<li IfModActive="sarg.alphapropsparks">1.6/Mods and Shit/AP Parks</li>
+		<li IfModActive="Inggo.AdvancedPolyBeds">1.6/Mods and Shit/Advanced Poly Beds</li>
+		<li IfModActive="mlie.amnabisflags">1.6/Mods and Shit/Amnabi's Flags</li>
+		<li IfModActive="xmb.ancienturbanruins.mo">1.6/Mods and Shit/Ancient Urban Ruins</li>
+		<li IfModActive="eeg.architecture">1.6/Mods and Shit/Architecture of the Rim</li>
+		<li IfModActive="zylle.clocks">1.6/Mods and Shit/Clocks</li>
+		<li IfModActive="Van.DACrypts">1.6/Mods and Shit/Dark Ages CAT</li>
+		<li IfModActive="DSP.HalituisAmaricanous">1.6/Mods and Shit/Dune Style</li>
+		<li IfModActive="erin.decorations">1.6/Mods and Shit/Erin Decorations</li>
+		<li IfModActive="pphhyy.GuldenNew">1.6/Mods and Shit/Gulden Biome</li>
+		<li IfModActive="Ludeon.Rimworld.Ideology">1.6/Mods and Shit/Ideology</li>
+		<li IfModActive="icepickgma.invisibledisplaycase">1.6/Mods and Shit/Invisible Display Case</li>
+		<li IfModActive="lm.lustechcamostyles">1.6/Mods and Shit/LusTech Modern Camo Styles</li>
+		<li IfModActive="nightmare.museums">1.6/Mods and Shit/Museums</li>
+		<li IfModActive="kongkim.panelsframes">1.6/Mods and Shit/Panels and Frames</li>
+		<li IfModActive="Animal.BedsNew">1.6/Mods and Shit/More Animal Beds</li>
+		<li IfModActive="DankPyon.Medieval.Overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
+		<li IfModActiveAll="DankPyon.Medieval.Overhaul,VanillaExpanded.VFEArt">1.6/Mods and Shit/Medieval Overhaul + VFE Art</li>
+		<li IfModActive="Misstall.Furniture">1.6/Mods and Shit/Misstall Furniture</li>
+		<li IfModActive="mingtuwuxiang.SpaceBaseDecorative">1.6/Mods and Shit/MUS SpaceBase</li>
+		<li IfModActive="rebuild.cotr.doorsandcorners">1.6/Mods and Shit/Rebuild DAC</li>
+		<li IfModActive="ReGrowth.BOTR.Core">1.6/Mods and Shit/Regrowth Core</li>
+		<li IfModActive="lmgginspace.repairbed">1.6/Mods and Shit/Repair Bed</li>
+		<li IfModActive="rimsenal.Sophian">1.6/Mods and Shit/Rimsenal Sophian</li>
+		<li IfModActive="rimsenal.techist">1.6/Mods and Shit/Rimsenal Techist</li>
+		<li IfModActive="dark.signs">1.6/Mods and Shit/Signs and Comments</li>
+		<li IfModActive="Mumei.Signs">1.6/Mods and Shit/Signs and Comments</li>
+		<li IfModActive="scurvyez.stevesdoors">1.6/Mods and Shit/Steve's Doors</li>
+		<li IfModActive="Scurvyez.StevesWalls">1.6/Mods and Shit/Steve's Walls</li>
+		<li IfModActive="VanillaExpanded.VFECore">1.6/Mods and Shit/VE Furniture</li>
+		<li IfModActiveAll="VanillaExpanded.VFECore,DankPyon.Medieval.Overhaul">1.6/Mods and Shit/VE Furniture + Medieval Overhaul</li>
+		<li IfModActive="farxmai2.vanillafurnitureexpandedpack">1.6/Mods and Shit/VE Furniture Additional Pack</li>
+		<li IfModActive="VanillaExpanded.VGeneticsE">1.6/Mods and Shit/VE Genetics</li>
+		<li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VFEArt">1.6/Mods and Shit/VE Genetics + VFE Art</li>
+		<li IfModActive="vanillaexpanded.vfearchitect">1.6/Mods and Shit/VFE Architect</li>
+		<li IfModActive="VanillaExpanded.VFEArt">1.6/Mods and Shit/VFE Art</li>
+		<li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">1.6/Mods and Shit/VFE Settlers</li>
+		<li IfModActive="VanillaExpanded.VFESpacer">1.6/Mods and Shit/VFE Spacer</li>
+		<li IfModActive="cixwow.vfespaceraddon">1.6/Mods and Shit/VFE Spacer Addon</li>
+		<li IfModActive="vanillaquestsexpanded.ancients">1.6/Mods and Shit/VQE Ancients</li>
+		<li IfModActiveAll="erin.decorations,VanillaExpanded.VFEArt">1.6/Mods and Shit/Erin Decorations + VFE Art</li>
+		<li IfModActiveAll="ponpeco.pfkidsroom,VanillaExpanded.VFEArt">1.6/Mods and Shit/Ponpeco Kids Room + VFE Art</li>
+		<li IfModActive="yayoflake.mahjong">1.6/Mods and Shit/Mahjong Table</li>
+		<li IfModActive="mo.decorationsluxury">1.6/Mods and Shit/Banquet Decorations</li>
+		<li IfModActive="3hstltd.signs">1.6/Mods and Shit/Bill Signs</li>
+		<li IfModActive="biomesteam.biomesfossils">1.6/Mods and Shit/Biomes Fossils</li>
+		<li IfModActive="ponpeco.pfkidsroom">1.6/Mods and Shit/Ponpeco Kids Room</li>
+		</v1.6>
+	</loadFolders>
