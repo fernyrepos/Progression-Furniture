@@ -12,6 +12,8 @@
 		<li IfModActive="Van.DACrypts">1.6/Mods and Shit/Dark Ages CAT</li>
 		<li IfModActive="DSP.HalituisAmaricanous">1.6/Mods and Shit/Dune Style</li>
 		<li IfModActive="erin.decorations">1.6/Mods and Shit/Erin Decorations</li>
+		<li IfModActive="Erin.JapaneseFurniture">1.6/Mods and Shit/Erin Japanese Furniture</li>
+		<li IfModActiveAll="Erin.JapaneseFurniture,Meltup.PolyamoryBeds.Vanilla">1.6/Mods and Shit/Erin Japanese Furniture + Polyamory Beds</li>
 		<li IfModActive="pphhyy.GuldenNew">1.6/Mods and Shit/Gulden Biome</li>
 		<li IfModActive="Ludeon.Rimworld.Ideology">1.6/Mods and Shit/Ideology</li>
 		<li IfModActive="icepickgma.invisibledisplaycase">1.6/Mods and Shit/Invisible Display Case</li>
@@ -50,5 +52,8 @@
 		<li IfModActive="3hstltd.signs">1.6/Mods and Shit/Bill Signs</li>
 		<li IfModActive="biomesteam.biomesfossils">1.6/Mods and Shit/Biomes Fossils</li>
 		<li IfModActive="ponpeco.pfkidsroom">1.6/Mods and Shit/Ponpeco Kids Room</li>
+		<li IfModActive="ponpeco.PFSF">1.6/Mods and Shit/Ponpeco Sci-Fi</li>
+		<li IfModActiveAll="scurvyez.stevesdoors,ponpeco.PFSF">1.6/Mods and Shit/Steve's Doors + Ponpeco Sci-Fi</li>
+		<li IfModActiveAll="rebuild.cotr.doorsandcorners,ponpeco.PFSF">1.6/Mods and Shit/Rebuild DAC + Ponpeco Sci-Fi</li>
 		</v1.6>
 	</loadFolders>

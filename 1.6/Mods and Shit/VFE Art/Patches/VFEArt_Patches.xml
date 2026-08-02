@@ -35,6 +35,30 @@
 			<label>wallpaper wall</label>
 		</value>
 	</Operation>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ResearchProjectDef[defName="VFE_Res_Wallpapers"]/prerequisites</xpath>
+			<match Class="PatchOperationReplace">
+			<xpath>/Defs/ResearchProjectDef[defName="VFE_Res_Wallpapers"]/prerequisites</xpath>
+				<value>
+					<prerequisites>
+					<li MayRequire="oskarpotocki.vfe.tribals">VFET_Construction</li>
+					</prerequisites>
+				</value>
+			</match>
+			<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/ResearchProjectDef[defName="VFE_Res_Wallpapers"]</xpath>
+				<value>
+					<prerequisites>
+					<li MayRequire="oskarpotocki.vfe.tribals">VFET_Construction</li>
+					</prerequisites>
+				</value>
+			</nomatch>
+	</Operation>
+
+
+
+
 	<Operation Class="PatchOperationConditional">
 		<success>Always</success>
 		<xpath>/Defs/ResearchProjectDef[defName="VFE_Res_Rugs"]/prerequisites</xpath>

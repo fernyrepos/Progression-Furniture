@@ -126,6 +126,9 @@
 		<techLevel>Neolithic</techLevel>
 		<researchViewX>24.00</researchViewX>
 		<researchViewY>3.00</researchViewY>
+		<prerequisites>
+			<li>Ferny_Tables</li>
+		</prerequisites>
 	</ResearchProjectDef>
 
 <ResearchProjectDef>
@@ -149,6 +152,9 @@
 		<techLevel>Industrial</techLevel>
 		<researchViewX>24.00</researchViewX>
 		<researchViewY>3.00</researchViewY>
+		<prerequisites>
+			<li>Ferny_Tables</li>
+		</prerequisites>
 	</ResearchProjectDef>
 
 </Defs>

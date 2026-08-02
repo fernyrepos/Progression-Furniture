@@ -10,7 +10,7 @@
 		<researchViewX>25.00</researchViewX>
 		<researchViewY>3.00</researchViewY>
 		<prerequisites>
-			<li MayRequire="oskarpotocki.vfe.tribals">VFET_Furniture</li>
+			<li>Ferny_Tables</li>
 		</prerequisites>
 	</ResearchProjectDef>
 
