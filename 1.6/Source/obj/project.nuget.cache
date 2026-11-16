@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4+GUvkif8c=",
+  "success": true,
+  "projectFilePath": "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/ProgressionFurniture.csproj",
+  "expectedPackageFiles": [
+    "/Users/ferny/.nuget/packages/krafs.rimworld.ref/1.6.4871/krafs.rimworld.ref.1.6.4871.nupkg.sha512",
+    "/Users/ferny/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/ferny/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

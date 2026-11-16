@@ -1,0 +1,5 @@
+/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Assemblies/ProgressionFurniture.dll
+/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/obj/Release/ProgressionFurniture.csproj.AssemblyReference.cache
+/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/obj/Release/ProgressionFurniture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/obj/Release/ProgressionFurniture.csproj.CoreCompileInputs.cache
+/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/obj/Release/ProgressionFurniture.dll

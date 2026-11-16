@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>Ferny_CurtainDoor</defName>
+    <label>Curtain door</label>
+    <description>Hang fabric panels from a metal rod to screen an entrance without dividing the room.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>24</researchViewX>
+    <researchViewY>6.5</researchViewY>
+    <prerequisites><li>Ferny_Door</li><li>Smithing</li></prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_LouverDoor</defName>
+    <label>Louver door</label>
+    <description>Fit adjustable slats into entrances to control the passage of heat and gases.</description>
+    <baseCost>200</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>24</researchViewX>
+    <researchViewY>7.5</researchViewY>
+    <prerequisites>
+      <li>Ferny_Door</li>
+    </prerequisites>
+  </ResearchProjectDef>
+</Defs>

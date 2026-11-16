@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <VFETribals.TribalResearchProjectDef>
+    <defName>Ferny_HayFlap</defName>
+    <label>Hay flap</label>
+    <description>Weave dried stalks into a simple covering for a shelter entrance.</description>
+    <baseCost>10</baseCost>
+    <techLevel>Animal</techLevel>
+    <tab>VFET_Basics</tab>
+    <researchViewX>22</researchViewX>
+    <researchViewY>6</researchViewY>
+    <prerequisites><li>VFET_Construction</li><li>VFET_Agriculture</li></prerequisites>
+  </VFETribals.TribalResearchProjectDef>
+</Defs>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="MDV_HayFlap"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="MDV_HayFlap"]</xpath>
+        <value><researchPrerequisites Inherit="False"><li>Ferny_HayFlap</li></researchPrerequisites></value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ResearchProjectDef[defName="Ferny_Door"]/prerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ResearchProjectDef[defName="Ferny_Door"]</xpath>
+        <value><prerequisites Inherit="False"><li>Ferny_HayFlap</li></prerequisites></value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

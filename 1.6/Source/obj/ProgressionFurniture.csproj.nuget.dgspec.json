@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/ProgressionFurniture.csproj": {}
+  },
+  "projects": {
+    "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/ProgressionFurniture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/ProgressionFurniture.csproj",
+        "projectName": "ProgressionFurniture",
+        "projectPath": "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/ProgressionFurniture.csproj",
+        "packagesPath": "/Users/ferny/.nuget/packages/",
+        "outputPath": "/Users/ferny/Library/Application Support/Steam/steamapps/common/RimWorld/Mods/Progression-Furniture/1.6/Source/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ferny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "/Users/ferny/.nuget/packages": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "false",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.6.4871, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies.net472": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

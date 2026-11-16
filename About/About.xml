@@ -5,6 +5,7 @@
 	<packageId>ferny.progressionfurniture</packageId>
 	<supportedVersions>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
 	<description>Integrates decoration mods into Vanilla progression.</description>
 	<modDependencies>
@@ -15,6 +16,8 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<li>oels.nanamewalls</li>
+		<li>local.moredoorvariants</li>
 		<li>DSP.HalituisAmaricanous</li>
 		<li>Animal.BedsNew</li>
 		<li>Inggo.AdvancedPolyBeds</li>
@@ -24,6 +27,11 @@
 		<li>ReGrowth.BOTR.Core</li>
 		<li>Scurvyez.StevesWalls</li>
 		<li>Van.DACrypts</li>
+		<li>Wanzi.BigGraves</li>
+		<li>scpchemfuel.appliances</li>
+		<li>biomesteam.biomesfossils</li>
+		<li>zal.lanterns</li>
+		<li>VanillaExpanded.HelixienGas</li>
 		<li>VanillaExpanded.VFECore</li>
 		<li>VanillaExpanded.VFESpacer</li>
 		<li>cixwow.vfespaceraddon</li>
@@ -53,5 +61,6 @@
 		<li>DankPyon.Medieval.Overhaul</li>
 		<li>ponpeco.pfkidsroom</li>
 		<li>yayoflake.mahjong</li>
+		<!-- <li>Wara.toomanymods</li> -->
 	</loadAfter>
 </ModMetaData>
