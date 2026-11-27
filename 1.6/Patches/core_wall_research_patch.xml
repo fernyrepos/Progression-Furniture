@@ -9,9 +9,15 @@
       <li Class="PatchOperationAdd">
         <xpath>/Defs/ThingDef[defName="Wall"]</xpath>
         <value>
-          <researchPrerequisites Inherit="False">
+          <researchPrerequisites>
             <li>Ferny_Wall</li>
           </researchPrerequisites>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd" MayRequire="Ludeon.RimWorld.Anomaly">
+        <xpath>/Defs/ThingDef[defName="GrayWall"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False" />
         </value>
       </li>
     </operations>
