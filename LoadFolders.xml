@@ -3,6 +3,8 @@
 	<v1.6>
 		<li>/</li>
 		<li>1.6</li>
+		<li IfModActive="Resurrectionem.Furniture">1.6/Mods and Shit/RR Furniture Rapture</li>
+		<li IfModActiveAll="Koni.Misc.Toxlamps,Ludeon.RimWorld.Biotech">1.6/Mods and Shit/Toxlamps</li>
 		<li IfModActive="oels.nanamewalls">1.6/Mods and Shit/NANAME Walls</li>
 		<li IfModActiveAll="local.moredoorvariants,kongkim.panelsframes">1.6/Mods and Shit/DG More Door Variants + Panels and Frames</li>
 		<li IfModActiveAll="local.moredoorvariants,ponpeco.PFSF">1.6/Mods and Shit/DG More Door Variants + Ponpeco Sci-Fi</li>

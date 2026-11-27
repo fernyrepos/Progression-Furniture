@@ -165,4 +165,16 @@
 			<li>ClassicStart</li>
 		</tags>
 	</ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_FloorLamp</defName>
+    <label>Floor lamp</label>
+    <description>Recess compact electric fixtures into the ground to illuminate paths without obstructing movement.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>30</researchViewX>
+    <researchViewY>6</researchViewY>
+    <prerequisites>
+      <li>Ferny_StandingLamp</li>
+    </prerequisites>
+  </ResearchProjectDef>
 </Defs>

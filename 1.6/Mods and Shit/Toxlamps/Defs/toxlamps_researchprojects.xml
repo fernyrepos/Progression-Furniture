@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>Ferny_ToxifierFloodLight</defName>
+    <label>Toxifier flood light</label>
+    <description>Illuminate broad outdoor areas with intense chemical reactions that release pollution instead of drawing electrical power.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>31</researchViewX>
+    <researchViewY>6</researchViewY>
+    <prerequisites>
+      <li>ToxifierGenerator</li>
+      <li>ColoredLights</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_ToxifierFloorLight</defName>
+    <label>Toxifier floor light</label>
+    <description>Recess self-powered chemical lighting into the ground, trading electrical consumption for local pollution.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>31</researchViewX>
+    <researchViewY>6.5</researchViewY>
+    <prerequisites>
+      <li>ToxifierGenerator</li>
+      <li MayRequire="VanillaExpanded.VFECore">Ferny_FloorLamp</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_ToxifierStandingLamp</defName>
+    <label>Toxifier standing lamp</label>
+    <description>Use freestanding chemical fixtures to brighten rooms without electricity, releasing harmful waste into nearby ground.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>31</researchViewX>
+    <researchViewY>7</researchViewY>
+    <prerequisites>
+      <li>ToxifierGenerator</li>
+      <li>Ferny_StandingLamp</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_ToxifierSunLamp</defName>
+    <label>Toxifier sun lamp</label>
+    <description>Sustain indoor crops with intense chemically generated illumination at the cost of polluting nearby ground.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>31</researchViewX>
+    <researchViewY>7.5</researchViewY>
+    <prerequisites>
+      <li>ToxifierGenerator</li>
+      <li>Ferny_SunLamp</li>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>Ferny_ToxifierWallLamp</defName>
+    <label>Toxifier wall lamp</label>
+    <description>Mount self-powered chemical fixtures on vertical surfaces to save floor space while releasing pollution.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <researchViewX>31</researchViewX>
+    <researchViewY>8</researchViewY>
+    <prerequisites>
+      <li>ToxifierGenerator</li>
+      <li>Ferny_WallLamp</li>
+    </prerequisites>
+  </ResearchProjectDef>
+</Defs>

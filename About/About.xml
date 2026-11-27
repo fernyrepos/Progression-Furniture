@@ -16,6 +16,7 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<li>Koni.Misc.Toxlamps</li>
 		<li>oels.nanamewalls</li>
 		<li>local.moredoorvariants</li>
 		<li>DSP.HalituisAmaricanous</li>

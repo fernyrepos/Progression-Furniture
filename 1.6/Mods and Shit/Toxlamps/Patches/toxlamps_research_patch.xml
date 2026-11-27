@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="ToxLamps_FloodLight"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ToxLamps_FloodLight"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False"><li>Ferny_ToxifierFloodLight</li></researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="ToxLamps_FloorLamp"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ToxLamps_FloorLamp"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False"><li>Ferny_ToxifierFloorLight</li></researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="ToxLamps_StandingLamp"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ToxLamps_StandingLamp"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False"><li>Ferny_ToxifierStandingLamp</li></researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="ToxLamps_SunLamp"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ToxLamps_SunLamp"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False"><li>Ferny_ToxifierSunLamp</li></researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationRemove">
+        <success>Always</success>
+        <xpath>/Defs/ThingDef[defName="ToxLamps_WallLamp"]/researchPrerequisites</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName="ToxLamps_WallLamp"]</xpath>
+        <value>
+          <researchPrerequisites Inherit="False"><li>Ferny_ToxifierWallLamp</li></researchPrerequisites>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
